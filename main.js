@@ -14,7 +14,7 @@ function displayOfflineStatus() {
     internetStatus.classList.remove("online");
   }
   internetStatus.classList.add("offline");
-  internetStatus.textContent = "No Internet Connect";
+  internetStatus.textContent = "No Internet Connection";
 }
 
 if (window.navigator.onLine) {
