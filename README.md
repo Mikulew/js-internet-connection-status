@@ -21,6 +21,7 @@ Check your network connection status! And if you're having trouble with your con
 - [click here](https://mikulew.github.io/js-internet-connection-status/)
 
 ## Articles
+- [JavaScript — Validate Online Status](https://javascript.plainenglish.io/javascript-validate-online-status-7e195b6a89a8)
 - [MDN: Navigator.onLine](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/onLine)
 - [MDN: Window: online event](https://developer.mozilla.org/en-US/docs/Web/API/Window/online_event)
 - [MDN: Window: offline event](https://developer.mozilla.org/en-US/docs/Web/API/Window/offline_event)
